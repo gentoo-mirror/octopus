@@ -1,0 +1,8 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
+media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
+x11-wm/i3:icons - Enable window icon support via x11-libs/xcb-util-image
+x11-wm/i3:pango - Use x11-libs/pango to render text in order to support fonts which have more glyphs (e.g. Kanji). See RELEASE-NOTES for more information
