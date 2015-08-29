@@ -33,6 +33,7 @@ sys-process/htop 9999: interactive process viewer
 x11-misc/bar 9999: bar is a lightweight bar based entirely on XCB.
 x11-misc/dzen 9999: a general purpose messaging, notification and menuing program for X11.
 x11-misc/rofi 0.15.1 0.15.2 0.15.4 0.15.5: A window switcher, run dialog and dmenu replacement
+x11-terms/st 9999: simple terminal implementation for X
 x11-wm/dwm 6.0 9999: a dynamic window manager for X11
 x11-wm/i3 4.7.2-r1 9999-r1: An improved dynamic tiling window manager
 xfce-extra/thunar-dropbox 0.2.0: Plugin for Thunar that adds context-menu items for Dropbox
