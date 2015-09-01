@@ -28,7 +28,7 @@ net-p2p/bitstormlite 0.2p 0.2q: A light BitTorrent client based on c++ and gtk+.
 net-p2p/deluge 1.3.7 1.3.10: BitTorrent client with a client/server model
 net-p2p/flush 0.9.12: A GTK-based BitTorrent client by Dmitry Konishchev
 net-p2p/opendchub 0.7.15 0.8.2 0.8.2-r1: hub software for Direct Connect
-sys-kernel/pf-sources 3.19_p4 4.0_p4 4.0_p5 4.0_p6 4.1_p2 4.1_p3: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
+sys-kernel/pf-sources 3.19_p4 4.0_p4 4.0_p5 4.0_p6 4.1_p2 4.1_p3 4.1_p4: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
 sys-process/htop 9999: interactive process viewer
 x11-misc/bar 9999: bar is a lightweight bar based entirely on XCB.
 x11-misc/bar-xft 9999: patched version of x11-misc/bar.
