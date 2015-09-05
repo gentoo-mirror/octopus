@@ -1,5 +1,4 @@
 app-arch/peazip 5.5.2: Open Source file and archive manager: flexible, portable, secure, and free as in freedom
-app-misc/dosage 2.9: Dosage is an application designed to keep a local mirror of specific web comics
 app-misc/double-commander 0.5.9 9999 9999-r1 9999-r2: Cross Platform file manager.
 app-shells/fish 9999: fish is the Friendly Interactive SHell
 app-shells/tcsh 6.19.00: Enhanced version of the Berkeley C shell (csh)
@@ -10,7 +9,6 @@ dev-util/uno 2.13: A tool for analyzing the source code of programs written in A
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
 games-util/steam-launcher 1.0.0.47-r2 1.0.0.47-r3 1.0.0.49: Installer, launcher and supplementary files for Valve's Steam client
 media-fonts/notofonts 20130514: A font family from Google designed to cover all the scripts encoded in Unicode
-media-fonts/powerline-fonts 9999-r1: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/tewi-font 1.0 9999: monospace font
 media-plugins/audacious-plugins 3.5.2: Audacious Player - Your music, your way, no exceptions
 media-plugins/deadbeef-infobar 1.3-r1 1.4 9999-r1: Infobar plugin for DeadBeeF audio player. Shows lyrics and artist's biography for the current track.
