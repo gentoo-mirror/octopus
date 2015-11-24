@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=POSIX-compliant shell script to download images from Danbooru and Gelbooru
+EAPI=4
+HOMEPAGE=http://code.google.com/p/danbooru-v7sh-grabber
+KEYWORDS=~amd64 ~x86
+LICENSE=WTFPL-2
+SLOT=0
+SRC_URI=http://danbooru-v7sh-grabber.googlecode.com/files/danbooru-v7sh-grabber-v0.20.22.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_install:-
+_md5_=e3ca60a928e650fd20fd88bf82162e23
