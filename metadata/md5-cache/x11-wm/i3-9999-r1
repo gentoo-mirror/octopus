@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst prepare test unpack
+DEPEND=dev-libs/libev dev-libs/libpcre dev-libs/yajl x11-libs/libxcb x11-libs/libX11 x11-libs/startup-notification x11-libs/xcb-util x11-libs/xcb-util-cursor x11-libs/xcb-util-keysyms x11-libs/xcb-util-wm icons? ( x11-libs/xcb-util-image ) pango? ( >=x11-libs/pango-1.30.0[X] >=x11-libs/cairo-1.12.2[X,xcb] ) app-text/asciidoc dev-lang/perl virtual/pkgconfig test? ( dev-perl/AnyEvent dev-perl/AnyEvent-I3 dev-perl/extutils-pkgconfig dev-perl/Inline dev-perl/IPC-Run dev-perl/JSON-XS dev-perl/X11-XCB virtual/perl-Data-Dumper virtual/perl-ExtUtils-MakeMaker virtual/perl-File-Temp virtual/perl-Getopt-Long virtual/perl-IO virtual/perl-Test virtual/perl-Test-Harness virtual/perl-Time-HiRes x11-drivers/xf86-video-dummy ) test? ( !prefix? ( x11-base/xorg-server[xvfb] ) x11-apps/xhost ) dev-vcs/git
+DESCRIPTION=An improved dynamic tiling window manager
+EAPI=5
+HOMEPAGE=http://i3wm.org/
+IUSE=+icons +pango test test
+LICENSE=BSD
+RDEPEND=dev-libs/libev dev-libs/libpcre dev-libs/yajl x11-libs/libxcb x11-libs/libX11 x11-libs/startup-notification x11-libs/xcb-util x11-libs/xcb-util-cursor x11-libs/xcb-util-keysyms x11-libs/xcb-util-wm icons? ( x11-libs/xcb-util-image ) pango? ( >=x11-libs/pango-1.30.0[X] >=x11-libs/cairo-1.12.2[X,xcb] )
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_prepare:- src_compile:- src_test:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	virtualx	7d550983f9b6adb3e7091f4090ddae2f
+_md5_=4a31a216cc7be56a6ba0c423d3d666f2
