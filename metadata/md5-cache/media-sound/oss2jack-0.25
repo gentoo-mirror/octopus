@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DEPEND=>=media-libs/libsamplerate-0.0.15 >=media-sound/jack-audio-connection-kit-0.99 >=sys-libs/fusd-1.10-r9
+DESCRIPTION=oss2jack, a userspace OSS dsp emulation with jack backend
+EAPI=5
+HOMEPAGE=http://fort.xdas.com/~kor/oss2jack/
+KEYWORDS=~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://fort.xdas.com/~kor/oss2jack/oss2jack-0.25.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_compile:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=ac4ee81c19d21f86bc35a816a3a5ad5e

@@ -17,6 +17,8 @@ media-plugins/deadbeef-replaygain-control 9999 20140802: DeaDBeeF replay gain co
 media-plugins/deadbeef-vk 0.2.2 9999: DeaDBeeF plugin for listening music from vkontakte.com
 media-plugins/deadbeef-vu-meter 9999 20140914: DeaDBeeF vu meter plugin
 media-plugins/gmp-openh264 1.1_p20141021-r1 1.2_p20141104: Gecko Media Plugin for openh264, to be used in mozilla packages
+media-sound/fusd-kor 1.10.11: Stackable unification file system, which can appear to merge the contents of several directories
+media-sound/oss2jack 0.25: oss2jack, a userspace OSS dsp emulation with jack backend
 media-video/tragtor 0.8.64: traGtor is a graphical user interface (GUI) for ffmpeg
 media-video/xvidcap 1.1.7: xvidcap is a screen capture enabling you to capture videos off yourX-Window desktop for illustration or documentation purposes.It is intended to be a standards-based alternative to tools like Lotus ScreenCam.
 net-im/skype4pidgin 9999: Skype API PLugin for Pidgin
@@ -25,7 +27,7 @@ net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
 net-news/newsbeuter 9999: A RSS/Atom feed reader for the text console
 net-p2p/deluge 1.3.7 1.3.10: BitTorrent client with a client/server model
 net-p2p/opendchub 0.7.15 0.8.2 0.8.2-r1 0.8.3: hub software for Direct Connect
-sys-kernel/pf-sources 3.19_p4 4.0_p4 4.0_p5 4.0_p6 4.1_p2 4.1_p3 4.1_p4 4.2_p1 4.2_p2 4.3_p3 4.4_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
+sys-kernel/pf-sources 3.19_p4 4.0_p6 4.1_p4 4.2_p2 4.3_p3 4.4_p2: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
 sys-process/htop 9999: interactive process viewer
 x11-misc/bar 9999: bar is a lightweight bar based entirely on XCB.
 x11-misc/bar-xft 9999: patched version of x11-misc/bar.
