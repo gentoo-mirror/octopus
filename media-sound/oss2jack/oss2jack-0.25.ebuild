@@ -10,13 +10,13 @@ DESCRIPTION="oss2jack, a userspace OSS dsp emulation with jack backend"
 HOMEPAGE="http://fort.xdas.com/~kor/oss2jack/"
 SRC_URI="http://fort.xdas.com/~kor/oss2jack/${PN}-${PV}.tar.gz"
 LICENSE="GPL-2"
-KEYWORDS="~x86"
+KEYWORDS="~amd64 ~x86"
 SLOT="0"
 
 DEPEND="
 	>=media-libs/libsamplerate-0.0.15
 	>=media-sound/jack-audio-connection-kit-0.99
-	>=sys-libs/fusd-1.10-r9"
+	>=sys-libs/fusd-kor-1.10-r9"
 
 S="${WORKDIR}/${PN}-${PV}"
 
