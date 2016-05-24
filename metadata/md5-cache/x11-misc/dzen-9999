@@ -10,4 +10,4 @@ RDEPEND=x11-libs/libX11 xinerama? ( x11-libs/libXinerama ) xpm? ( x11-libs/libXp
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_compile:- src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=9b91f13f0da16f82729ef12e5bd812c1
+_md5_=7ea44abb33ab19af1fde213516e1cccc
