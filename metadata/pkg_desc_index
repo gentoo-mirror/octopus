@@ -35,6 +35,6 @@ x11-misc/bar-xft 9999: patched version of x11-misc/bar.
 x11-misc/dzen 9999: a general purpose messaging, notification and menuing program for X11.
 x11-misc/rofi 0.15.1 0.15.2 0.15.4 0.15.5: A window switcher, run dialog and dmenu replacement
 x11-terms/st 9999: simple terminal implementation for X
-x11-wm/dwm 9999: a dynamic window manager for X11
+x11-wm/dwm 2015.12.19 9999: a dynamic window manager for X11
 x11-wm/i3 4.7.2-r1 9999-r1: An improved dynamic tiling window manager
 xfce-extra/thunar-dropbox 0.2.0: Plugin for Thunar that adds context-menu items for Dropbox
