@@ -4,3 +4,11 @@
 
 media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
+www-client/palemoon:system-cairo - Installed version of x11-libs/cairo instead of bundled.
+www-client/palemoon:system-compress - Installed version of sys-libs/zlib and app-arch/bzip2 instead of bundled.
+www-client/palemoon:system-images - Installed version of media-libs/libjpeg-turbo, media-libs/libwebp and media-libs/libpng instead of bundled.
+www-client/palemoon:system-libevent - Installed version of dev-libs/libevent instead of bundled.
+www-client/palemoon:system-pixman - Installed version of x11-libs/pixman instead of bundled.
+www-client/palemoon:system-spell - Installed version of app-text/hunspell instead of bundled.
+www-client/palemoon:system-sqlite - Installed version of dev-db/sqlite instead of bundled.
+www-client/palemoon:system-vpx - Installed version of media-libs/libvpx instead of bundled.
