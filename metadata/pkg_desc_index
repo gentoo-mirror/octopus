@@ -1,4 +1,4 @@
-app-misc/rmlint 2.2.0 9999: rmlint finds space waste and other broken things on your filesystem and offers to remove it.
+app-misc/rmlint 9999: rmlint finds space waste and other broken things on your filesystem and offers to remove it.
 app-shells/fish 9999: fish is the Friendly Interactive SHell
 app-shells/tcsh 6.19.00: Enhanced version of the Berkeley C shell (csh)
 app-text/coolreader3 9999 9999-r2: CoolReader - reader of eBook files (fb2,epub,htm,rtf,txt)
