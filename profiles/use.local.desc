@@ -6,8 +6,8 @@ media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
 www-client/palemoon:gtk2 - Use GTK+2 GUI toolkit.
 www-client/palemoon:gtk3 - Use GTK+3 GUI toolkit.
-www-client/palemoon:jemalloc - Use memory allocator jemalloc
-www-client/palemoon:necko-wifi - Use necko's wifi scanner
+www-client/palemoon:jemalloc - Use memory allocator jemalloc.
+www-client/palemoon:necko-wifi - Use necko's wifi scanner.
 www-client/palemoon:official-branding - Allow including branded information. Binaries cannot be redistributed after.
 www-client/palemoon:optimize - Accepting environment optimization level instead of default.
 www-client/palemoon:printing - Include printing support.
