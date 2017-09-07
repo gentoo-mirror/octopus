@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/LemonBoy/bar
 LICENSE=MIT
 RDEPEND=x11-libs/libxcb
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=8e0db7a77c8147ae25e87f5322a36d49
