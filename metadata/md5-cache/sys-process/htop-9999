@@ -7,5 +7,5 @@ IUSE=elibc_FreeBSD kernel_linux openvz unicode vserver
 LICENSE=BSD GPL-2
 RDEPEND=sys-libs/ncurses[unicode?]
 SLOT=0
-_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
 _md5_=4211062cf61588680561a29531eeccd4
