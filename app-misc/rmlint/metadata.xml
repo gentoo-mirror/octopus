@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
-<maintainer type="person">
-	<email>bfg@derpy.ru</email>
-</maintainer>
 <pkgmetadata>
+	<maintainer type="person">
+		<email>"bfg@derpy.ru"</email>
+	</maintainer>
 	<use>
 		<flag name='doc'>Generate documentation via sphinx.</flag>
 	</use>
+	<longdescription lang="en">
+	rmlint finds space waste and other broken things on your filesystem and offers to remove it.
+	</longdescription>
 </pkgmetadata>
