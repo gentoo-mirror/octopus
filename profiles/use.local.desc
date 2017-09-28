@@ -2,5 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-misc/rmlint:doc - Generate documentation via sphinx.
 media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
 media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3

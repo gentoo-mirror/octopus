@@ -1,4 +1,4 @@
-app-misc/rmlint 9999: rmlint finds space waste and other broken things on your filesystem and offers to remove it.
+app-misc/rmlint 9999: Tool for cleaning up your filesystem
 app-shells/fish 9999: fish is the Friendly Interactive SHell
 app-shells/tcsh 6.19.00: Enhanced version of the Berkeley C shell (csh)
 dev-perl/Term-Animation 2.6: Animated ASCII Art support for Perl
