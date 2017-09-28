@@ -2,6 +2,6 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>bfg@derpy.ru</email>
+		<email>"bfg@derpy.ru"</email>
 	</maintainer>
 </pkgmetadata>
