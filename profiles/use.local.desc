@@ -5,6 +5,7 @@
 app-misc/rmlint:doc - Generate documentation via sphinx.
 dev-util/geany:gtk3 - Use GTK+3 GUI toolkit.
 dev-util/geany:vte - Support VTE terminal windows.
+www-client/palemoon:devtools - Build with developer tools support.
 www-client/palemoon:gtk2 - Use GTK+2 GUI toolkit.
 www-client/palemoon:gtk3 - Use GTK+3 GUI toolkit.
 www-client/palemoon:jemalloc - Use memory allocator jemalloc.
@@ -12,12 +13,14 @@ www-client/palemoon:necko-wifi - Use necko's wifi scanner.
 www-client/palemoon:official-branding - Allow including branded information. Binaries cannot be redistributed after.
 www-client/palemoon:optimize - Accepting environment optimization level instead of default.
 www-client/palemoon:printing - Include printing support.
+www-client/palemoon:shared-js - Use shared JS feature while compiling.
 www-client/palemoon:speech - Include support for HTML Speech API.
 www-client/palemoon:strip-binaries - Enable strip optimization.
 www-client/palemoon:system-cairo - Installed version of x11-libs/cairo instead of bundled.
 www-client/palemoon:system-compress - Installed version of sys-libs/zlib and app-arch/bzip2 instead of bundled.
 www-client/palemoon:system-images - Installed version of media-libs/libjpeg-turbo, media-libs/libwebp and media-libs/libpng instead of bundled.
 www-client/palemoon:system-libevent - Installed version of dev-libs/libevent instead of bundled.
+www-client/palemoon:system-nss - Installed version of dev-libs/nss instead of bundled.
 www-client/palemoon:system-pixman - Installed version of x11-libs/pixman instead of bundled.
 www-client/palemoon:system-spell - Installed version of app-text/hunspell instead of bundled.
 www-client/palemoon:system-sqlite - Installed version of dev-db/sqlite instead of bundled.

@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile install prepare unpack
 DEPEND=x11-libs/libX11 xinerama? ( x11-libs/libXinerama ) xpm? ( x11-libs/libXpm ) xinerama? ( x11-proto/xineramaproto ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=a general purpose messaging, notification and menuing program for X11.
-EAPI=5
+EAPI=6
 HOMEPAGE=https://github.com/robm/dzen
 IUSE=minimal xinerama xpm
 KEYWORDS=amd64 x86
@@ -9,4 +9,4 @@ LICENSE=MIT
 RDEPEND=x11-libs/libX11 xinerama? ( x11-libs/libXinerama ) xpm? ( x11-libs/libXpm )
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=7ea44abb33ab19af1fde213516e1cccc
+_md5_=dd179d424155629dc00dbad177a48df7
