@@ -5,8 +5,6 @@
 app-misc/rmlint:doc - Generate documentation via sphinx.
 dev-util/geany:gtk3 - Use GTK+3 GUI toolkit.
 dev-util/geany:vte - Support VTE terminal windows.
-media-plugins/deadbeef-infobar:gtk2 - Build with x11-libs/gtk+:2
-media-plugins/deadbeef-infobar:gtk3 - Build with x11-libs/gtk+:3
 www-client/palemoon:gtk2 - Use GTK+2 GUI toolkit.
 www-client/palemoon:gtk3 - Use GTK+3 GUI toolkit.
 www-client/palemoon:jemalloc - Use memory allocator jemalloc.
