@@ -7,4 +7,4 @@ LICENSE=MIT
 RDEPEND=x11-libs/libxcb x11-libs/libXft !x11-misc/bar
 SLOT=0
 _eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
-_md5_=ec946783f908edc869f9d7545b83ab20
+_md5_=40f8c66376bc3af1a8630d93ee019a51

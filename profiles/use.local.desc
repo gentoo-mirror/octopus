@@ -5,6 +5,11 @@
 app-misc/rmlint:doc - Generate documentation via sphinx.
 dev-util/geany:gtk3 - Use GTK+3 GUI toolkit.
 dev-util/geany:vte - Support VTE terminal windows.
+games-action/minetest:leveldb - Enable LevelDB backend
+games-action/minetest:luajit - Use dev-lang/luajit instead of dev-lang/lua
+games-action/minetest:redis - Enable redis backend via dev-libs/hiredis
+games-action/minetest:server - Build minetest server
+games-action/minetest:spatial - Enable SpatialIndex AreaStore backend
 sys-process/htop:openvz - Support virtualization via OpenVZ.
 sys-process/htop:vserver - Support virtualization via Linux-VServer.
 www-client/palemoon:devtools - Build with developer tools support.
