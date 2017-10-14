@@ -3,7 +3,7 @@
 
 EAPI=6
 
-inherit autotools linux-info git-r3
+inherit autotools linux-info git-r3 eutils
 
 DESCRIPTION="interactive process viewer"
 HOMEPAGE="http://hisham.hm/htop/"
@@ -38,6 +38,7 @@ src_prepare() {
 	sed -i -e '1c\#!'"${EPREFIX}"'/usr/bin/python' \
 		scripts/MakeHeader.py || die
 
+	eapply_user
 	default
 	eautoreconf
 }
