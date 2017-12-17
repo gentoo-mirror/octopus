@@ -1,16 +1,2 @@
-app-misc/rmlint 9999: Tool for cleaning up your filesystem
-app-shells/fish 9999: fish is the Friendly Interactive SHell
-dev-perl/Term-Animation 2.6: Animated ASCII Art support for Perl
-dev-util/geany 9999: GTK+ based fast and lightweight IDE
-games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
-games-misc/asciiquarium 1.1: Asciiquarium is an aquarium/sea animation in ASCII art
-media-gfx/sxiv 9999: Simple X Image Viewer
-net-misc/danbooru-grabber 0.20.20 0.20.22: POSIX-compliant shell script to download images from Danbooru and Gelbooru
-net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
-net-p2p/opendchub 0.8.3: hub software for Direct Connect
-sys-process/htop 9999: interactive process viewer
-www-client/palemoon 27.1.2-r1 27.2.1 27.3.0 27.4.2 27.5.1 27.6.0 9999-r2: Pale Moon Web Browser
-x11-misc/bar 9999: bar is a lightweight bar based entirely on XCB.
-x11-misc/bar-xft 9999: patched version of x11-misc/bar.
 x11-misc/dzen 9999: a general purpose messaging, notification and menuing program for X11.
 x11-wm/dwm 2015.12.19: a dynamic window manager for X11
