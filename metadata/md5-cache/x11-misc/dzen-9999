@@ -8,5 +8,5 @@ KEYWORDS=amd64 x86
 LICENSE=MIT
 RDEPEND=x11-libs/libX11 xinerama? ( x11-libs/libXinerama ) xpm? ( x11-libs/libXpm )
 SLOT=0
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
 _md5_=dd179d424155629dc00dbad177a48df7
