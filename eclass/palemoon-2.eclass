@@ -14,12 +14,9 @@ palemoon-2_pkg_pretend() {
 	# Ensure we are not on a gcc 5.* profile:
 	if [ "$(cc --version | head -c 3)" == "gcc" ]; then
 		einfo "Checking gcc version..."
-		if [ "$(gcc -dumpversion | head -c 1)" -ge 5 ]; then
-			if [ "$(gcc -dumpversion | head -c 1)" -eq 7 ]; then
-				gcc-7_error
-				die
-			fi
-			gcc-5_warning
+		if [ "$(gcc -dumpversion | head -c 1)" -ge 7 ]; then
+			gcc-7_error
+			die
 		fi
 	fi
 }
@@ -49,14 +46,6 @@ official-branding_warning() {
 	elog "to any users on your network or the internet. Doing so puts yourself into"
 	elog "a legal problem with Moonchild Productions"
 	elog "You can disable it by emerging ${PN} _without_ the official-branding USE-flag"
-}
-
-gcc-5_warning() {
-	eerror "Building Pale Moon with gcc >=5 may result in an unstable build."
-	eerror "You can use gcc-config to change your compiler profile,"
-	eerror "just remember to change it back afterwards."
-	eerror "You need to have the appropriate versions of gcc installed"
-	eerror "for them to be shown in gcc-config."
 }
 
 gcc-7_error() {
