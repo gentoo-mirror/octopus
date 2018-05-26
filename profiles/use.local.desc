@@ -2,3 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+media-sound/cmus:cdio - use libcdio for CD support
+media-sound/cmus:cue - enable CUE sheet parsing
+media-sound/cmus:discid - enable reading the ID of the inserted CD
+media-sound/cmus:opus - enable support for media-libs/opusfile
+media-sound/cmus:pidgin - install support script for net-im/pidgin
+media-sound/cmus:tremor - use libivorbis from media-libs/tremor instead of media-libs/libvorbis
