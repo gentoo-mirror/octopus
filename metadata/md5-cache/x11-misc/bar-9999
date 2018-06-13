@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile install unpack
-DEPEND=x11-libs/libxcb >=dev-vcs/git-1.8.2.1
+DEPEND=x11-libs/libxcb >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=bar is a lightweight bar based entirely on XCB.
 EAPI=5
 HOMEPAGE=https://github.com/LemonBoy/bar
 LICENSE=MIT
 RDEPEND=x11-libs/libxcb
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=1fd22b7c45aa80bc2cedf1abd5440a3a
