@@ -1,4 +1,5 @@
 app-misc/rmlint 9999: Tool for cleaning up your filesystem
+dev-games/openscenegraph 3.6.4: Open source high performance 3D graphics toolkit
 dev-perl/Term-Animation 2.6: Animated ASCII Art support for Perl
 dev-util/geany 9999: GTK+ based fast and lightweight IDE
 games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
