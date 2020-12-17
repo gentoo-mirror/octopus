@@ -17,7 +17,6 @@ net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
 net-p2p/opendchub 0.8.3: hub software for Direct Connect
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-process/htop 9999: interactive process viewer
-www-client/palemoon 27.9.4 27.9999-r2 28.2.2 28.3.0 9999-r3: Pale Moon Web Browser
 x11-misc/bar 9999: bar is a lightweight bar based entirely on XCB.
 x11-misc/bar-xft 9999: patched version of x11-misc/bar.
 x11-misc/dzen 9999: a general purpose messaging, notification and menuing program for X11.
