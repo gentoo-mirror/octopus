@@ -9,7 +9,6 @@ games-action/minetest 9999: An InfiniMiner/Minecraft inspired game
 games-engines/openmw 9999: Open source reimplementation of TES III: Morrowind
 games-misc/asciiquarium 1.1: Asciiquarium is an aquarium/sea animation in ASCII art
 media-gfx/sxiv 9999: Simple X Image Viewer
-media-libs/shaderc 9999: Collection of tools, libraries and tests for shader compilation
 media-sound/cmus 9999-r1: A ncurses based music player with plugin support for many formats
 media-video/mpv 9999-r1: Media player based on MPlayer and mplayer2
 net-misc/danbooru-grabber 0.20.20 0.20.22: POSIX-compliant shell script to download images from Danbooru and Gelbooru
